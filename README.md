@@ -28,7 +28,7 @@ mkdir /opt/rtmpie
 cd /opt/rtmpie
 
 # Download the small installer script
-wget https://raw.githubusercontent.com/ahsan-sajib/streaming/main/setup.sh
+wget https://raw.githubusercontent.com/ahsan-sajib/streampie/main/setup.sh
 bash setup.sh # Answer the questions
 
 # Run the docker setup
